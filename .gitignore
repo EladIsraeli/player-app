@@ -10,6 +10,8 @@ target/
 .csv
 .DS_Store
 
+!**/large_sample.csv
+
 ### STS ###
 .apt_generated
 .classpath
